@@ -1,1 +1,2 @@
-const button = document.getElementsByClassName
+const button = document.getElementById("my-button");
+console.log(button);
